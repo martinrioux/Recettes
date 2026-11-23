@@ -8,6 +8,13 @@ Chaque fiche contient :
 - **Notes** : ce qu'on en pense, qui aime quoi, les variantes.
 - **Historique** : les dates où la recette a été cuisinée.
 
+## Notes générales
+
+### Farine moulue maison
+- On a un moulin à grain et on moud notre propre farine.
+- On remplace la farine tout usage par la farine moulue maison autant que possible, mais pas toujours à 100 %, pour garder le goût et la texture voulus.
+- Pain et pâtes : environ 50 % de farine moulue maison (norme actuelle).
+
 ## Index
 
 ### Sandwichs et repas légers
