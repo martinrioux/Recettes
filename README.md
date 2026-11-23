@@ -20,6 +20,9 @@ Chaque fiche contient :
 ### Déjeuners
 - [Crêpes (pancakes) à la farine fraîchement moulue](dejeuners/crepes-farine-moulue.md) — 100 % farine moulue maison
 
+### Plats principaux
+- [Fondue italienne](plats-principaux/fondue-italienne.md) — mozzarella, tomates, végé
+
 ### Sandwichs et repas légers
 - [Baguette garnie aux courgettes grillées et aux haricots blancs barbecue](sandwichs/baguette-courgettes-haricots-blancs-bbq.md) — barbecue, végé
 
