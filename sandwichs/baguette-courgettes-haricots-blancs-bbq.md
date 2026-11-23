@@ -5,7 +5,6 @@
 ## Original
 
 - Source : *3 fois par jour*
-- Image originale : [capture sur Dropbox](https://www.dropbox.com/scl/fi/a83esdg7ph8enkrew69zx/Baguette-garnie-aux-courgettes-grill-es-et-aux-haricots-blancs-barbecue.png?rlkey=3jv5dgowhgsig8f3pbllc60bs&st=4649w0p8&dl=0)
 
 ### Ingrédients
 
