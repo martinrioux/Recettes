@@ -37,6 +37,7 @@ Chaque fiche contient :
 ### Sandwichs et repas légers
 - [Baguette garnie aux courgettes grillées et aux haricots blancs barbecue](sandwichs/baguette-courgettes-haricots-blancs-bbq.md) — barbecue, végé
 - ⚡ [Garniture à sandwich aux lentilles, façon jambon](sandwichs/garniture-lentilles-facon-jambon.md) — lentilles rouges, végé, rapide et très bon
+- [Hot-dogs aux carottes fumées](sandwichs/hot-dogs-carottes-fumees.md) — végé, poêle ou BBQ, à préparer la veille
 
 ### Trempettes et tartinades
 - Houmous de haricots blancs barbecue → voir la [baguette garnie](sandwichs/baguette-courgettes-haricots-blancs-bbq.md#variante--houmous)
