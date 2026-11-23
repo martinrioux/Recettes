@@ -10,6 +10,9 @@ Chaque fiche contient :
 
 ## Notes générales
 
+### Mesures
+- On favorise le poids (grammes) pour mesurer les ingrédients.
+
 ### Farine moulue maison
 - On a un moulin à grain et on moud notre propre farine.
 - On remplace la farine tout usage par la farine moulue maison autant que possible, mais pas toujours à 100 %, pour garder le goût et la texture voulus.
