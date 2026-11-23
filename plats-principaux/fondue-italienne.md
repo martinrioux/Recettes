@@ -29,6 +29,8 @@ _Aucune pour l'instant._
 
 ## Notes
 
+- À tremper : généralement du pain, du brocoli et du chou-fleur.
+
 ## Historique
 
 | Date | Notes |
