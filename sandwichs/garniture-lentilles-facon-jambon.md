@@ -1,6 +1,6 @@
 # Garniture à sandwich aux lentilles, façon jambon
 
-**Catégorie :** Sandwichs et repas légers · **Cuisson :** chaudron · **Végé** (végane avec mayo végétale)
+**Catégorie :** Sandwichs et repas légers · **Cuisson :** chaudron · **Végé** (végane avec mayo végétale) · ⚡ **Rapide**
 
 ## Original
 
@@ -37,6 +37,8 @@ _Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversion
 _Aucune pour l'instant._
 
 ## Notes
+
+- Rapide à faire et très bon.
 
 ## Historique
 

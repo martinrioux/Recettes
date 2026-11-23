@@ -8,6 +8,8 @@ Chaque fiche contient :
 - **Notes** : ce qu'on en pense, qui aime quoi, les variantes.
 - **Historique** : les dates où la recette a été cuisinée.
 
+⚡ = recette confirmée rapide à faire (pour les idées de repas rapides).
+
 ## Notes générales
 
 ### Mesures
@@ -33,7 +35,7 @@ Chaque fiche contient :
 
 ### Sandwichs et repas légers
 - [Baguette garnie aux courgettes grillées et aux haricots blancs barbecue](sandwichs/baguette-courgettes-haricots-blancs-bbq.md) — barbecue, végé
-- [Garniture à sandwich aux lentilles, façon jambon](sandwichs/garniture-lentilles-facon-jambon.md) — lentilles rouges, végé
+- ⚡ [Garniture à sandwich aux lentilles, façon jambon](sandwichs/garniture-lentilles-facon-jambon.md) — lentilles rouges, végé, rapide et très bon
 
 ### Trempettes et tartinades
 - Houmous de haricots blancs barbecue → voir la [baguette garnie](sandwichs/baguette-courgettes-haricots-blancs-bbq.md#variante--houmous)
