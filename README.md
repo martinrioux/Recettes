@@ -34,6 +34,9 @@ Chaque fiche contient :
 ### Trempettes et tartinades
 - Houmous de haricots blancs barbecue → voir la [baguette garnie](sandwichs/baguette-courgettes-haricots-blancs-bbq.md#variante--houmous)
 
+### Collations
+- [Muffins aux bananes sans sucre](collations/muffins-bananes-sans-sucre.md) — santé, mini-muffins, se congèlent
+
 ### Desserts et biscuits
 - [Biscuits sablés à la cardamome](desserts/biscuits-sables-cardamome.md) — four, variantes vanille, érable ou cannelle
 - [Glaçage ultra léger au chocolat blanc](desserts/glacage-chocolat-blanc.md) — glaçage ermine, cupcakes et gâteaux
