@@ -20,7 +20,7 @@ _Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversion
 - 1 ml (¼ c. à thé) de sel
 - 2,5 ml (½ c. à thé) de fumée liquide
 - 5 ml (1 c. à thé) de jus de betterave
-- 45 ml (3 c. à soupe) de mayonnaise végétalienne, et plus au goût (≈ 40 g)
+- 45 ml (3 c. à soupe) de mayonnaise végétalienne, et plus au goût
 
 ### Étapes (résumées)
 

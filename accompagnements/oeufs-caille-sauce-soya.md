@@ -15,7 +15,7 @@ _Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversion
 - 1 c. à thé de sel
 - 1 ½ tasse de bouillon dashi (≈ 360 g)
 - ¼ tasse de sauce soya (≈ 70 g)
-- 3 c. à soupe de miel ou de sirop de maïs (≈ 63 g)
+- 3 c. à soupe de miel ou de sirop de maïs
 - 6 gousses d'ail, pelées
 - 1 piment rouge, haché (facultatif)
 

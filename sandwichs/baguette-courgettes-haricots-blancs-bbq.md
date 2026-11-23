@@ -19,7 +19,7 @@ _Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversion
 **Papillote de haricots blancs**
 - 1 boîte (540 ml) de haricots blancs, rincés et égouttés (≈ 340 g égouttés)
 - 2 c. à thé d'épices barbecue du commerce
-- 1 c. à soupe de cassonade (≈ 13 g)
+- 1 c. à soupe de cassonade
 - 1 gousse d'ail, hachée
 - 1 c. à soupe d'huile végétale
 

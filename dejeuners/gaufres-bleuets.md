@@ -14,7 +14,7 @@ _Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversion
 
 **Bleuets**
 - 2 tasses de bleuets frais ou surgelés, décongelés (≈ 300 g)
-- 2 c. à soupe de farine tout usage (≈ 15 g)
+- 2 c. à soupe de farine tout usage
 
 **Ingrédients secs**
 - 2 tasses de farine tout usage (≈ 250 g)

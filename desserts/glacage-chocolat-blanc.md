@@ -14,7 +14,7 @@ _Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversion
 
 - 1 tasse de lait entier (≈ 240 g) (le 2 % fonctionne)
 - ½ tasse de sucre (≈ 100 g)
-- 5 c. à soupe de farine tout usage (≈ 40 g)
+- 5 c. à soupe de farine tout usage
 - 1 tasse de pépites de chocolat blanc (≈ 170 g)
 - 1 tasse de beurre non salé (≈ 227 g), à température pièce (si beurre salé, omettre le sel)
 - 1 pincée de sel

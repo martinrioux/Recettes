@@ -14,6 +14,7 @@ Chaque fiche contient :
 
 ### Mesures
 - On favorise le poids (grammes) pour mesurer les ingrédients.
+- Pas besoin du poids pour les petites quantités (c. à thé, c. à soupe).
 
 ### Farine moulue maison
 - On a un moulin à grain et on moud notre propre farine.
