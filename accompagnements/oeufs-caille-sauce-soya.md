@@ -1,10 +1,10 @@
-# Œufs de caille braisés à la sauce soya (coréens)
+# Œufs de caille marinés à la sauce soya (coréens)
 
 **Catégorie :** Accompagnements · **Cuisson :** chaudron · Se mange chaud ou froid
 
 ## Original
 
-- Recette anglaise d'œufs de caille braisés à la coréenne (captures d'écran)
+- Recette anglaise d'œufs de caille marinés à la coréenne (captures d'écran)
 
 _Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversions standards._
 

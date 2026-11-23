@@ -29,7 +29,7 @@ Chaque fiche contient :
 - [Tofu magique général Tao](plats-principaux/tofu-general-tao.md) — air fryer, végé
 
 ### Accompagnements
-- [Œufs de caille braisés à la sauce soya (coréens)](accompagnements/oeufs-caille-sauce-soya.md) — chaud ou froid, avec du riz
+- [Œufs de caille marinés à la sauce soya (coréens)](accompagnements/oeufs-caille-sauce-soya.md) — chaud ou froid, avec du riz
 
 ### Sandwichs et repas légers
 - [Baguette garnie aux courgettes grillées et aux haricots blancs barbecue](sandwichs/baguette-courgettes-haricots-blancs-bbq.md) — barbecue, végé
