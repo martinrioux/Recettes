@@ -33,3 +33,4 @@ Chaque fiche contient :
 
 ### Desserts et biscuits
 - [Biscuits sablés à la cardamome](desserts/biscuits-sables-cardamome.md) — four, variantes vanille, érable ou cannelle
+- [Glaçage ultra léger au chocolat blanc](desserts/glacage-chocolat-blanc.md) — glaçage ermine, cupcakes et gâteaux
