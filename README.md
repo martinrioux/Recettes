@@ -19,7 +19,7 @@ Chaque fiche contient :
 
 ### Déjeuners
 - [Crêpes (pancakes) à la farine fraîchement moulue](dejeuners/crepes-farine-moulue.md) — 100 % farine moulue maison
-- [Gaufres aux bleuets](dejeuners/gaufres-bleuets.md) — gaufrier, se congèle
+- [Gaufres](dejeuners/gaufres-bleuets.md) — gaufrier, se congèle (d'après « Gaufres aux bleuets », faites nature)
 
 ### Plats principaux
 - [Fondue italienne](plats-principaux/fondue-italienne.md) — mozzarella, tomates, végé
