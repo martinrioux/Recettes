@@ -23,6 +23,7 @@ Chaque fiche contient :
 
 ### Plats principaux
 - [Fondue italienne](plats-principaux/fondue-italienne.md) — mozzarella, tomates, végé
+- [Tofu magique général Tao](plats-principaux/tofu-general-tao.md) — air fryer, végé
 
 ### Sandwichs et repas légers
 - [Baguette garnie aux courgettes grillées et aux haricots blancs barbecue](sandwichs/baguette-courgettes-haricots-blancs-bbq.md) — barbecue, végé
