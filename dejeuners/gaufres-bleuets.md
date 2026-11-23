@@ -8,25 +8,27 @@
 - 8 gaufres · Préparation 10 min · Cuisson 20 min · Repos 10 min
 - Se conserve 3 à 4 jours au frigo.
 
+_Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversions standards._
+
 ### Ingrédients
 
 **Bleuets**
-- 2 tasses de bleuets frais ou surgelés (décongelés)
-- 2 c. à soupe de farine tout usage
+- 2 tasses de bleuets frais ou surgelés, décongelés (≈ 300 g)
+- 2 c. à soupe de farine tout usage (≈ 15 g)
 
 **Ingrédients secs**
-- 2 tasses de farine tout usage
-- ½ tasse de fécule de maïs
+- 2 tasses de farine tout usage (≈ 250 g)
+- ½ tasse de fécule de maïs (≈ 64 g)
 - 2 c. à thé de poudre à pâte
 - 1 pincée de sel
 
 **Ingrédients humides**
-- ½ tasse de cassonade
+- ½ tasse de cassonade (≈ 107 g)
 - 1 c. à thé d'extrait de vanille
 - 2 œufs
-- 2 tasses de lait tiède
+- 2 tasses de lait tiède (≈ 480 g)
 - 1 c. à soupe de jus de citron
-- ½ tasse de beurre fondu
+- ½ tasse de beurre fondu (≈ 113 g)
 
 ### Étapes (résumées)
 

@@ -6,6 +6,8 @@
 
 - Source : *3 fois par jour*
 
+_Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversions standards._
+
 ### Ingrédients
 
 **Garniture**
@@ -15,9 +17,9 @@
 - 1 c. à soupe de ciboulette fraîche, émincée
 
 **Papillote de haricots blancs**
-- 1 boîte (540 ml) de haricots blancs, rincés et égouttés
+- 1 boîte (540 ml) de haricots blancs, rincés et égouttés (≈ 340 g égouttés)
 - 2 c. à thé d'épices barbecue du commerce
-- 1 c. à soupe de cassonade
+- 1 c. à soupe de cassonade (≈ 13 g)
 - 1 gousse d'ail, hachée
 - 1 c. à soupe d'huile végétale
 
@@ -28,7 +30,7 @@
 - Sel et poivre
 
 **Mayonnaise au citron**
-- 1/3 tasse de mayonnaise (ou végénaise)
+- 1/3 tasse de mayonnaise ou végénaise (≈ 75 g)
 - Jus de ½ citron
 
 ### Étapes (résumées)

@@ -5,14 +5,15 @@
 ## Original
 
 Transcrit tel quel de la fiche « Biscuits à la cardamome » (PDF numérisé).
+_Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversions standards._
 
 ### Ingrédients
 
-- ¾ tasse de beurre mou
-- ¼ tasse de sucre
+- ¾ tasse de beurre mou (≈ 170 g)
+- ¼ tasse de sucre (≈ 50 g)
 - 1 c. à thé d'extrait de vanille
 - ¼ c. à thé de sel
-- 1 ¾ tasse de farine
+- 1 ¾ tasse de farine (≈ 220 g)
 - 2 c. à thé de cardamome en poudre
 
 ### Étapes

@@ -7,25 +7,27 @@
 - Source : *Mordu* (Radio-Canada), recette de Loounie
 - 4 portions · Préparation 10 min · Cuisson 20 min · Facile
 
+_Les équivalents en grammes (≈) sont ajoutés à côté, selon des conversions standards._
+
 ### Ingrédients
 
 **Tofu**
 - 1 bloc (450 g) de tofu extra ferme
-- 15 ml (1 c. à soupe) de sauce soya
-- 15 ml (1 c. à soupe) de sirop d'érable
-- 15 ml (1 c. à soupe) de vinaigre de riz
-- 60 ml (¼ tasse) de levure alimentaire en flocons
-- 30 ml (2 c. à soupe) de fécule de maïs
-- 30 ml (2 c. à soupe) d'huile végétale
+- 15 ml (1 c. à soupe) de sauce soya (≈ 18 g)
+- 15 ml (1 c. à soupe) de sirop d'érable (≈ 20 g)
+- 15 ml (1 c. à soupe) de vinaigre de riz (≈ 15 g)
+- 60 ml (¼ tasse) de levure alimentaire en flocons (≈ 15 g)
+- 30 ml (2 c. à soupe) de fécule de maïs (≈ 16 g)
+- 30 ml (2 c. à soupe) d'huile végétale (≈ 27 g)
 
 **Sauce et assemblage**
-- 30 ml (2 c. à soupe) de sauce soya
-- 45 ml (3 c. à soupe) de sirop d'érable
-- 15 ml (1 c. à soupe) de vinaigre de riz
+- 30 ml (2 c. à soupe) de sauce soya (≈ 36 g)
+- 45 ml (3 c. à soupe) de sirop d'érable (≈ 60 g)
+- 15 ml (1 c. à soupe) de vinaigre de riz (≈ 15 g)
 - 10 ml (2 c. à thé) de sriracha ou sambal oelek
 - 10 ml (2 c. à thé) d'huile de sésame grillé
-- 250 ml (1 tasse) d'eau
-- 15 ml (1 c. à soupe) de fécule de maïs
+- 250 ml (1 tasse) d'eau (250 g)
+- 15 ml (1 c. à soupe) de fécule de maïs (≈ 8 g)
 - 15 ml (1 c. à soupe) d'huile végétale
 - 30 ml (2 c. à soupe) de gingembre haché
 - 2 gousses d'ail hachées
