@@ -32,6 +32,9 @@ Chaque fiche contient :
 - [Fondue italienne](plats-principaux/fondue-italienne.md) — mozzarella, tomates, végé
 - [Tofu magique général Tao](plats-principaux/tofu-general-tao.md) — air fryer, végé
 
+### Soupes
+- [Soupe à l'indienne](soupes/soupe-a-l-indienne.md) — haloumi, lentilles, lait de coco, délicieuse
+
 ### Accompagnements
 - [Œufs de caille marinés à la sauce soya (coréens)](accompagnements/oeufs-caille-sauce-soya.md) — chaud ou froid, avec du riz
 
