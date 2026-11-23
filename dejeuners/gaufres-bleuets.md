@@ -41,6 +41,7 @@
 ## Modifications
 
 Notre version (annotations sur la fiche) :
+- **Sans bleuets** (ni la farine pour les enrober) : gaufres nature.
 - Fécule de maïs remplacée par de la **farine de maïs** (75 g).
 - Farine tout usage : **245 g**.
 - Cassonade : **75 g**.
