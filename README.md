@@ -31,6 +31,7 @@ Chaque fiche contient :
 ### Plats principaux
 - [Fondue italienne](plats-principaux/fondue-italienne.md) — mozzarella, tomates, végé
 - [Tofu magique général Tao](plats-principaux/tofu-general-tao.md) — air fryer, végé
+- [Thon rouge en croûte de sésame](plats-principaux/thon-rouge-croute-sesame.md) — poisson, marinade 1 h, cuisson 3 min
 
 ### Soupes
 - [Soupe à l'indienne](soupes/soupe-a-l-indienne.md) — haloumi, lentilles, lait de coco, délicieuse
